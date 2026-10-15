@@ -52,10 +52,7 @@ int main(void) {
     int defined = 0;
 
     printf("Input x: ");
-    if (scanf("%lf", &x) != 1) {
-        printf("Error: invalid input\n");
-        return 1;
-    }
+    scanf("%lf", &x);
 
     if (x > -10) {
         if (x <= -5) {
@@ -108,12 +105,9 @@ int main(void) {
     int defined = 0;
 
     printf("Input x: ");
-    if (scanf("%lf", &x) != 1) {
-        printf("Error: invalid input\n");
-        return 1;
-    }
+    scanf("%lf", &x);
 
-    if (((x > -10 && x <= -5)) || (x > 5 && x <= 15)) {
+    if ((x > -10 && x <= -5) || (x > 5 && x <= 15)) {
         y = x * x * x - 6;
         defined = 1;
     } else if (x >= 25) {
