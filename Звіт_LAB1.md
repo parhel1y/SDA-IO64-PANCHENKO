@@ -80,6 +80,7 @@ int main(void) {
 
     return 0;
 }
+```
 #### Скріншоти тестів:
 <img width="1094" height="76" alt="image" src="https://github.com/user-attachments/assets/037d98b9-0667-467e-bb2e-999c377aaa88" />
 <img width="1107" height="96" alt="image" src="https://github.com/user-attachments/assets/80cf57b6-26e2-419e-b162-6b29f4da8b64" />
@@ -128,6 +129,7 @@ int main(void) {
 
     return 0;
 }
+```
 #### Скріншоти тестів:
 <img width="1074" height="55" alt="image" src="https://github.com/user-attachments/assets/c359647e-9aaf-4376-9be9-dd6723012e58" />
 <img width="1094" height="80" alt="image" src="https://github.com/user-attachments/assets/c8c4ebf6-8fd5-42ce-83b9-2f596675f056" />
