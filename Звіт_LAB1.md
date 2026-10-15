@@ -76,12 +76,6 @@ int main(void) {
 
     return 0;
 }
-#### Скріншоти тестів:
-<img width="1094" height="76" alt="image" src="https://github.com/user-attachments/assets/4a296bf0-ad19-42ae-9bbd-20489973928a" />
-<img width="1107" height="96" alt="image" src="https://github.com/user-attachments/assets/d0ea5b49-6fd1-45d0-ae16-9e4696bb3064" />
-<img width="1102" height="88" alt="image" src="https://github.com/user-attachments/assets/74a1778d-3e1c-41b1-afeb-3cd7ca3c5766" />
-<img width="1108" height="106" alt="image" src="https://github.com/user-attachments/assets/155a4360-ebbd-4584-a798-5a6880b8fd6e" />
-<img width="1110" height="92" alt="image" src="https://github.com/user-attachments/assets/6bad0fe2-4569-4e0e-9272-d3c760337b0f" />
 
 Умови другого способу:
 Варіант 15
