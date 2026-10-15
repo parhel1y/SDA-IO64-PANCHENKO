@@ -39,7 +39,7 @@ $2x^3 - 3x + 2, \quad x \in [25, +\infty)$
 
 ---
 
-<img width="450" height="928" alt="image" src="https://github.com/user-attachments/assets/5cb629aa-4f0a-4ed1-9927-14f08ac3e621" />
+<img width="459" height="933" alt="image" src="https://github.com/user-attachments/assets/c7465a38-1849-4502-8996-bb3fbca636a0" />
 
 
 ---
