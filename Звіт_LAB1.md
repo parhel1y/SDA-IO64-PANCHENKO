@@ -78,13 +78,21 @@ int main(void) {
 }
 
 
-Умови другого способу:
-Варіант 15
-$f_1(x) = x^3 - 6, \quad x \in (-10, -5] \cup (5, 15]$$f_2(x) = 2x^3 - 3x + 2, \quad x \in [25, +\infty)$У програмі необхідно обов'язково використати булеві (логічні) операції (not, and, or тощо); використання булевих операцій не повинно бути надлишковим.
+---
 
-<img width="529" height="933" alt="image" src="https://github.com/user-attachments/assets/49756093-49eb-43a3-85b6-6e6fde96c9fe" />
+## Умови другого способу:
+**Варіант 15**
+* $f_1(x) = x^3 - 6, \quad x \in (-10, -5] \cup (5, 15]$
+* $f_2(x) = 2x^3 - 3x + 2, \quad x \in [25, +\infty)$
+
+ У програмі необхідно **обов'язково** використати булеві (логічні) операції (`not`, `and`, `or` тощо); використання булевих операцій не повинно бути надлишковим.
+---
+
+<img width="530" height="935" alt="image" src="https://github.com/user-attachments/assets/d08437f6-abd4-4db7-8cbf-6fb1e49a4636" />
+---
 ```c
 #include <stdio.h>
+
 int main(void) {
     double x, y = 0;
     int defined = 0;
