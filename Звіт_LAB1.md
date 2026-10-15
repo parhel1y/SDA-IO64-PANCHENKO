@@ -42,7 +42,6 @@
 <img width="454" height="931" alt="image" src="https://github.com/user-attachments/assets/495b513f-08bb-4564-86b0-65d195702207" />
 ```c
 #include <stdio.h>
-
 int main(void) {
     double x, y = 0;
     int defined = 0;
