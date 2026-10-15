@@ -40,7 +40,7 @@
 1. У програмі дозволяється використовувати тільки одиничні операції порівняння (`=`, `<>`, `<`, `<=`, `>`, `>=`) і **не дозволяється** використовувати булеві (логічні) операції (`not`, `and`, `or` тощо).
 
 <img width="454" height="931" alt="image" src="https://github.com/user-attachments/assets/495b513f-08bb-4564-86b0-65d195702207" />
-```c
+``c
 #include <stdio.h>
 int main(void) {
     double x, y = 0;
@@ -85,6 +85,7 @@ int main(void) {
 Умови другого способу:
 Варіант 15
 $f_1(x) = x^3 - 6, \quad x \in (-10, -5] \cup (5, 15]$$f_2(x) = 2x^3 - 3x + 2, \quad x \in [25, +\infty)$У програмі необхідно обов'язково використати булеві (логічні) операції (not, and, or тощо); використання булевих операцій не повинно бути надлишковим.
+
 <img width="529" height="933" alt="image" src="https://github.com/user-attachments/assets/49756093-49eb-43a3-85b6-6e6fde96c9fe" />
 ```c
 #include <stdio.h>
