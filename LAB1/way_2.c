@@ -1,14 +1,11 @@
 #include <stdio.h>
 
-int main() {
+int main(void) {
     double x, y = 0;
     int defined = 0;
 
     printf("Input x: ");
-    if (scanf("%lf", &x) != 1) {
-        printf("Error: invalid input\n");
-        return 1;
-    }
+    scanf("%lf", &x);
 
     if ((x > -10 && x <= -5) || (x > 5 && x <= 15)) {
         y = x * x * x - 6;
