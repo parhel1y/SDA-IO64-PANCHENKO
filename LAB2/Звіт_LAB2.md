@@ -136,15 +136,19 @@ int main() {
 ## Скріншоти тестування програм
 
 n = 2
-<img width="1125" height="73" alt="image" src="https://github.com/user-attachments/assets/2c21907d-d665-4e1d-a766-691266743f8c" />
+<img width="435" height="51" alt="image" src="https://github.com/user-attachments/assets/b9d0aeb9-fdb7-408a-9677-681912228c40" />
+<img width="273" height="54" alt="image" src="https://github.com/user-attachments/assets/ea42fd41-5a3c-4267-a6dc-5adec15bafc1" />
 
 
 n = 10
-<img width="1161" height="62" alt="image" src="https://github.com/user-attachments/assets/1123aa9a-52d3-4cc6-af0a-f991ffe202b4" />
+<img width="259" height="54" alt="image" src="https://github.com/user-attachments/assets/088ded55-125c-493b-ae32-7c45e554d42a" />
 
+<img width="202" height="57" alt="image" src="https://github.com/user-attachments/assets/94fcf52c-268a-4b75-868f-c03827436de6" />
 
 n = 100
-<img width="1099" height="110" alt="image" src="https://github.com/user-attachments/assets/5c7c0252-d24c-463d-b370-37cc56496a73" />
+<img width="248" height="48" alt="image" src="https://github.com/user-attachments/assets/f39f0a36-604a-47af-b124-c829a94e0b70" />
+
+<img width="261" height="47" alt="image" src="https://github.com/user-attachments/assets/27dfc122-d93b-445f-8559-d227a6e08ac5" />
 
 
 ## Таблиця з результатами запуску програм
@@ -167,7 +171,7 @@ n = 100
 | 1 | 0.6666667 | 8.333e-02 |
 | 2 | 0.7777778 | 2.778e-02 |
 | 3 | 0.7407407 | 9.259e-03 |
-| 10 | 0.7499958 | 4.234e-06 |
+| 10 | 0.7500042 | 4.234e-06 |
 | 20 | 0.7500000 | 7.170e-11 |
 | 30 | 0.7500000 | 1.221e-15 |
 | 50 | 0.7500000 | 3.482e-25 |
