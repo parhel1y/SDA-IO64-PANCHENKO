@@ -136,10 +136,16 @@ int main() {
 ## Скріншоти тестування програм
 
 n = 2
+<img width="1125" height="73" alt="image" src="https://github.com/user-attachments/assets/2c21907d-d665-4e1d-a766-691266743f8c" />
+
 
 n = 10
+<img width="1161" height="62" alt="image" src="https://github.com/user-attachments/assets/1123aa9a-52d3-4cc6-af0a-f991ffe202b4" />
+
 
 n = 100
+<img width="1099" height="110" alt="image" src="https://github.com/user-attachments/assets/5c7c0252-d24c-463d-b370-37cc56496a73" />
+
 
 ## Таблиця з результатами запуску програм
 
@@ -149,6 +155,8 @@ n = 100
 | Кількість операцій, спосіб 2 (динамічне програмування) | 15 | 22 | 29 | 78 | 148 | 218 | 358 | 708 |
 
 ### Графік залежності кількості операцій від n для кожного зі способів
+<img width="590" height="344" alt="image" src="https://github.com/user-attachments/assets/31adc626-cba1-476e-832a-07b2a99061a8" />
+
 
 ## Абсолютна похибка
 
@@ -166,6 +174,8 @@ n = 100
 | 100 | 0.7500000 | 4.850e-49 |
 
 ### Графік похибки обчислень у залежності від n
+<img width="586" height="342" alt="image" src="https://github.com/user-attachments/assets/921b4dd9-bde4-40ce-a1a0-37e976429ea8" />
+
 
 ## Результати перевірки правильності обчислень на калькуляторі
 
